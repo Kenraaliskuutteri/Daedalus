@@ -1,0 +1,6 @@
+*.o
+*.a
+test_runner
+example_basic_usage
+bench_malloc
+build/
